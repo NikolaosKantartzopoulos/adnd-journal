@@ -8,3 +8,11 @@
 - Tuesday 29/10/2024 18:15-20:15 --- (To be confirmed)
 - Mon 4 - Fri 8 / 11
 - Mon 11 - Fri 15 / 11
+
+## Links
+
+[[Journal Index]]
+[[Locations Index]]
+[[Lore Index]]
+[[NPCs Index]]
+[[--- Quest Log ---]]
