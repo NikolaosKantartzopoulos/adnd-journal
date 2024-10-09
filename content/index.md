@@ -16,3 +16,7 @@
 [[Lore Index]]
 [[NPCs Index]]
 [[--- Quest Log ---]]
+
+# Skyrock's Map
+
+![[Χάρτης Skyrock - Players.excalidraw.png]]
