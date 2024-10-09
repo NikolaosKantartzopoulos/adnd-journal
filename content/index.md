@@ -1,5 +1,8 @@
 # In-game time
+
 ***11 Marpenoth (Leafall) 1491, The City of Skyrock***
+
+---
 
 # Upcoming Sessions
 
@@ -9,14 +12,19 @@
 - Mon 4 - Fri 8 / 11
 - Mon 11 - Fri 15 / 11
 
+---
+
 ## Links
 
 [[Journal Index]]
 [[Locations Index]]
 [[Lore Index]]
 [[NPCs Index]]
+[[Χάρτης Skyrock.png]]
 [[--- Quest Log ---]]
+
+---
 
 # Skyrock's Map
 
-![[Χάρτης Skyrock - Players.excalidraw.png]]
+![[Χάρτης Skyrock.png]]
