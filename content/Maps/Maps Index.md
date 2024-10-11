@@ -1,0 +1,1 @@
+[[Party - The Allwyn Heroes/_wiki/Maps/Χάρτης Skyrock.png]]
