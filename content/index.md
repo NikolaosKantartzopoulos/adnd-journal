@@ -1,7 +1,7 @@
 # In-game time
 
 ***12 Marpenoth (Leafall) 1491, The City of Skyrock***
-**Latest Journal Entry: **[[3. Ο Γάμος της Κιβέρα --- 11-10-1491]]
+**Latest Journal Entry:** [[3. Ο Γάμος της Κιβέρα --- 11-10-1491]]
 
 ---
 
@@ -17,7 +17,7 @@
 
 # Skyrock's Map
 
-![[Party - The Allwyn Heroes/_wiki/Maps/Χάρτης Skyrock.png]]
+![[Χάρτης Skyrock.png]]
 
 ---
 
