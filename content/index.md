@@ -3,6 +3,11 @@
 ***12 Marpenoth (Leafall) 1491, The City of Skyrock***
 
 
+[[--- Quest Log ---]]
+
+[[--- Treasury ---]]
+
+
 **Latest Journal Entry:**  
 [[3. Ο Γάμος της Κιβέρα --- 11-10-1491]]
 
