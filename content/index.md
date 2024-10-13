@@ -3,19 +3,19 @@
 
 ---
 
-[[--- Quest Log ---]]
-
-
-[[--- Treasury ---]]
+[[--- Quest Log ---]]  
+[[--- Treasury ---]]  
 
 
 
-***In-game time:***
-***12 Marpenoth (Leafall) 1491, The City of Skyrock***
+***In-game time:***  
+***12 Marpenoth (Leafall) 1491, The City of Skyrock***  
 
 
-**Latest Journal Entry:**  
-[[3. Ο Γάμος της Κιβέρα --- 11-10-1491]]
+
+
+**Latest Journal Entry:**    
+[[3. Ο Γάμος της Κιβέρα --- 11-10-1491]]  
 
 ---
 
