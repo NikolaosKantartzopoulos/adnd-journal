@@ -1,11 +1,17 @@
-# In-game time
 
-***12 Marpenoth (Leafall) 1491, The City of Skyrock***
+[[---  The Group Contract ---]]
 
+---
 
 [[--- Quest Log ---]]
 
+
 [[--- Treasury ---]]
+
+
+
+***In-game time:***
+***12 Marpenoth (Leafall) 1491, The City of Skyrock***
 
 
 **Latest Journal Entry:**  
