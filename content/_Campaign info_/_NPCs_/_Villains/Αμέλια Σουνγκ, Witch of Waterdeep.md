@@ -1,0 +1,1 @@
+Framed [[Aranict, Human Sorceress]]. Got her expelled. [[Beluwrath, Human Wizard]] too.
