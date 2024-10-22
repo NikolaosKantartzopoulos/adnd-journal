@@ -1,8 +1,5 @@
 
-[[---  The Group Contract ---]]
-
----
-
+[[---  The Group Contract ---]]  
 [[--- Quest Log ---]]  
 [[--- Treasury ---]]  
 
