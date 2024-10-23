@@ -1,3 +1,5 @@
+# Character
+_Zyraxas Frostscale, White Dragonborn Warrior_
 
 ## Ideals
 

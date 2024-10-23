@@ -1,3 +1,6 @@
+# Character
+*Lucian, Half-elf Rogue*
+
 ## Ideals
 
 - Γνώση και Πλούτος  
