@@ -37,7 +37,7 @@
 ## Relationships
 
 - Ally
-- Important - Η μητέρα της [[Κορίνα, Evocker - Aranict's mom]]
+- Important - Η μητέρα της [[Κορίνα Stormflare, Evocker - Aranict's mom]]
 - Enemy
 - Location - Κολλέγιο μάγων της Waterdeep
 
