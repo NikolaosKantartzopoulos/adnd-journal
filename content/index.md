@@ -4,11 +4,9 @@
 [[--- Treasury ---]]  
 
 
-
 ***In-game time:***  
-***12 Marpenoth (Leafall) 1491, The City of Skyrock***  
-
-
+***Απόγευμα 12 Marpenoth (Leafall) 1491,  
+The City of Skyrock***  
 
 
 **Latest Journal Entry:**    
@@ -18,8 +16,7 @@
 
 # Upcoming Sessions
 
-- Monday 21/10/2024 18:15-20:15 --- Live !!!
-- Tuesday 29/10/2024 18:15-20:15 --- (To be confirmed)
+- Τρίτη 29/10/2024 18:15-20:15
 - Mon 4 - Fri 8 / 11
 - Mon 18 - Fri 22 / 11
 
