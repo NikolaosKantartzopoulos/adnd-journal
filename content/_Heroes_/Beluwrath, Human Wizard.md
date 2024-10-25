@@ -1,50 +1,32 @@
 # Character
 *Beluwrath, Human Wizard*
 
-## Ideals
-
-- Knowledge
-- Greater Good
-
-## Bonds
-
-- Harpers
-
-
-## Flaws
-
-- Pride
-- Impatience
-
-## Secret
-
-- Ανακάλυψε πρόσφατα πως είναι γόνος μιας αρχαίας γενιάς [[Οικογένεια Μάγων Twilfayne]]
-
-
-## Trinket
-
-- Ένα κλειδί που δεν ξέρει για που είναι και το είχε πάντα
+| Category    | Description                                                                           |
+| ----------- | ------------------------------------------------------------------------------------- |
+| **Ideals**  | Knowledge                                                                             |
+|             | Greater Good                                                                          |
+| **Bonds**   | Harpers                                                                               |
+| **Flaws**   | Pride                                                                                 |
+|             | Impatience                                                                            |
+| **Secret**  | Ανακάλυψε πρόσφατα πως είναι γόνος μιας αρχαίας γενιάς [[Οικογένεια Μάγων Twilfayne]] |
+| **Trinket** | Ένα κλειδί που δεν ξέρει για που είναι και το είχε πάντα                              |
 
 ---
 
 # Motives
 
-## Relationships
+| **Relationships** | Description                 |
+| ----------------- | --------------------------- |
+| Ally              | ???                         |
+| Important         | ???                         |
+| Enemy             | Αμέλια Σούνγκ               |
+| Location          | College of Mages, Waterdeep |
 
-- Ally - ??? 
-- Important - ???
-- Enemy - Αμέλια Σούνγκ
-- Location - College of Mages, Waterdeep
-
-
-## Goals
-
-- Short
-	- Ενορίθιλ
-	- ???
-- Long
-	- Να βρει και να ανοίξει τους πύργους της οικογένειας του 
-
+| **Goals** | Description                                             |
+| --------- | ------------------------------------------------------- |
+| Short     | Ενορίθιλ                                                |
+|           | ???                                                     |
+| Long      | Να βρει και να ανοίξει τους πύργους της οικογένειας του |
 
 ---
 

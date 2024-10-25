@@ -2,6 +2,7 @@
 [[---  The Group Contract ---]]  
 [[--- Quest Log ---]]  
 [[--- Treasury ---]]  
+[[---Campaign Map---]]
 
 
 ***In-game time:***  
