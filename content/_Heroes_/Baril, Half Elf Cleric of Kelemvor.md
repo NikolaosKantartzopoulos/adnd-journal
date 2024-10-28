@@ -2,37 +2,37 @@
 # Character
 *Baril, Half-elf cleric*
 
-| Category   | Description                                                                                                                                                                                                                        |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Ideals** | Επιδίωξη Δύναμης για να Υπερνικήσει την Αδυναμία                                                                                                                                                                                   |
-|            | Εμμονή με τα Μυστικά της Ζωής και του Θανάτου                                                                                                                                                                                      |
-|            | Αφοσίωση στις Διδασκαλίες του Κέλεμβορ                                                                                                                                                                                             |
-| **Bonds**  | Βεσπέρα, Tiefling                                                                                                                                                                                                                  |
-|            | Μοναστήρι Oghma, Ραχοκοκκαλιά                                                                                                                                                                                                      |
-|            | Ιερατείο του Κέλεμβορ στην Baldur's Gate                                                                                                                                                                                           |
-| **Flaws**  | Φόβος να Εμπιστευτεί την Κρίση του λόγω του ότι έσπασε τους κανόνες του Θεού του                                                                                                                                                   |
-|            | Αυτοαμφιβολία και ενοχές                                                                                                                                                                                                           |
-|            | Αμφισβητεί τις αποφάσεις του, ειδικά όταν πρόκειται για ζητήματα ζωής και θανάτου.                                                                                                                                                 |
-|            | Δισταγμός σε Κρίσιμες Στιγμές                                                                                                                                                                                                      |
-|            | Υπερβολική Συμμόρφωση με τους Κανόνες                                                                                                                                                                                              |
-| **Secret** | Η Βεσπέρα έπασχε από μία ανίατη ασθένεια                                                                                                                                                                                           |
-|            | Παρά τις επιταγές του Κέλεμβορ την σκότωσε για να μην υποφέρει                                                                                                                                                                     |
-|            | Φριχτά όνειρα, όπου η Βεσπέρα, Tiefling εμφανίζεται σε απέθαντη μορφή                                                                                                                                                              |
-|            | Ρωτάει γιατί τάραξε τον Κύκλο της Ζωής και του Θανάτου.                                                                                                                                                                            |
-|            | Οράματα του Κέλεμβορ: καλείται να ταξιδέψει στη Skyrock, για να βρει τον χαμένο Ναό Του και να εκτελέσει μία τελετή εξαγνισμού των ψυχών εκείνων που, κατά τη διάρκεια μιας σκοτεινής νύχτας, αυτοκτόνησαν ή δολοφονήθηκαν μαζικά. |
-| **Trinket**| ???                                                            |
+| Category    | Description                                                                                                                                                                                                                        |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ideals**  | Επιδίωξη Δύναμης για να Υπερνικήσει την Αδυναμία                                                                                                                                                                                   |
+|             | Εμμονή με τα Μυστικά της Ζωής και του Θανάτου                                                                                                                                                                                      |
+|             | Αφοσίωση στις Διδασκαλίες του Κέλεμβορ                                                                                                                                                                                             |
+| **Bonds**   | Βεσπέρα, Tiefling                                                                                                                                                                                                                  |
+|             | Μοναστήρι Oghma, Ραχοκοκκαλιά                                                                                                                                                                                                      |
+|             | Ιερατείο του Κέλεμβορ στην Waterdeep                                                                                                                                                                                               |
+| **Flaws**   | Φόβος να Εμπιστευτεί την Κρίση του λόγω του ότι έσπασε τους κανόνες του Θεού του                                                                                                                                                   |
+|             | Αυτοαμφιβολία και ενοχές                                                                                                                                                                                                           |
+|             | Αμφισβητεί τις αποφάσεις του, ειδικά όταν πρόκειται για ζητήματα ζωής και θανάτου.                                                                                                                                                 |
+|             | Δισταγμός σε Κρίσιμες Στιγμές                                                                                                                                                                                                      |
+|             | Υπερβολική Συμμόρφωση με τους Κανόνες                                                                                                                                                                                              |
+| **Secret**  | Η Βεσπέρα έπασχε από μία ανίατη ασθένεια                                                                                                                                                                                           |
+|             | Παρά τις επιταγές του Κέλεμβορ την σκότωσε για να μην υποφέρει                                                                                                                                                                     |
+|             | Φριχτά όνειρα, όπου η Βεσπέρα, Tiefling εμφανίζεται σε απέθαντη μορφή                                                                                                                                                              |
+|             | Ρωτάει γιατί τάραξε τον Κύκλο της Ζωής και του Θανάτου.                                                                                                                                                                            |
+|             | Οράματα του Κέλεμβορ: καλείται να ταξιδέψει στη Skyrock, για να βρει τον χαμένο Ναό Του και να εκτελέσει μία τελετή εξαγνισμού των ψυχών εκείνων που, κατά τη διάρκεια μιας σκοτεινής νύχτας, αυτοκτόνησαν ή δολοφονήθηκαν μαζικά. |
+| **Trinket** | ???                                                                                                                                                                                                                                |
 
 
 ---
 
 # Motives
 
-| Relationships | Description                                                                           |
-| ------------- | ------------------------------------------------------------------------------------- |
-| Ally          | Ιερατείο του Κέλεμβορ στην Baldur's Gate που τον δέχτηκαν όταν έφυγε από το μοναστήρι |
-| Important     | [[Βεσπέρα, Tiefling]]                                                                 |
-| Enemy         | ???                                                                                   |
-| Location      | Μοναστήρι στη Ραχοκοκκαλιά, Ναός Κέλεμβορ Baldur's Gate                               |
+| Relationships | Description                                                                       |
+| ------------- | --------------------------------------------------------------------------------- |
+| Ally          | Ιερατείο του Κέλεμβορ στην Waterdeep που τον δέχτηκαν όταν έφυγε από το μοναστήρι |
+| Important     | [[Βεσπέρα, Tiefling]]                                                             |
+| Enemy         | ???                                                                               |
+| Location      | Μοναστήρι στη Ραχοκοκκαλιά, Ναός Κέλεμβορ Waterdeep                               |
 
 | **Goals** | Description                                                                                                                                                    |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -77,7 +77,7 @@ At the day of my birthday when I became 14 years old, I had my worst vision yet.
 
 I am convinced that the clergy of Kelemvor holds all the answers that I seek. 
 
-In the next morning I fairwelled the fair monks that I grew up with and travelled to the famous city of baldur's gate and the great temple of Kelemvor.
+In the next morning I fairwelled the fair monks that I grew up with and travelled to the famous city of Waterdeep and the great temple of Kelemvor.
 
 I joined the clergy at the temple of Kelemvor, learning his ways. I devoted my life to him, hoping to find the answers that I seek, and maybe find a way to bring my sister back.
 
@@ -89,4 +89,4 @@ Since her death, I've been haunted by visions of destruction and the realm of de
 
 On my 14th birthday, I had my worst vision yet—everything burned, the dead walking the earth, and my sister pointing toward the abyss and Kelemvor’s realm. I became convinced that Kelemvor's clergy holds the answers I seek.
 
-The next morning, I bid farewell to the monks and traveled to Baldur’s Gate, joining the temple of Kelemvor. I’ve since dedicated my life to his service, hoping to uncover the truths about life, death, and maybe even bring my sister back.
+The next morning, I bid farewell to the monks and traveled to Waterdeep, joining the temple of Kelemvor. I’ve since dedicated my life to his service, hoping to uncover the truths about life, death, and maybe even bring my sister back.
