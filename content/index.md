@@ -1,8 +1,11 @@
 
 [[---  The Group Contract ---]]  
+[[---Campaign Map---]]  
+
+
 [[--- Quest Log ---]]  
 [[--- Treasury ---]]  
-[[---Campaign Map---]]
+
 
 
 ***In-game time:***  
@@ -11,7 +14,7 @@ The City of Skyrock***
 
 
 **Latest Journal Entry:**    
-[[4. Tea Party! --- 12-10-1491]]
+[[5. Η γενναία σερίφης Ayleen --- 12-10-1491]]
 
 ---
 
