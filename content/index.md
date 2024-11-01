@@ -1,8 +1,5 @@
 
-[[---  The Group Contract ---]]  
 [[---Campaign Map---]]  
-
-
 [[--- Quest Log ---]]  
 [[--- Treasury ---]]  
 
@@ -16,6 +13,8 @@ The City of Skyrock***
 **Latest Journal Entry:**    
 [[5. Η γενναία σερίφης Ayleen --- 12-10-1491]]
 
+
+
 ---
 
 # Skyrock's Map
@@ -25,3 +24,4 @@ The City of Skyrock***
 ---
 
 
+[[---  The Group Contract ---]]  
