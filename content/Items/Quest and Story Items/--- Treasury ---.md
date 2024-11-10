@@ -1,4 +1,4 @@
-# GP: 170
+# GP: 1835
 
 # Silvered Weapons
 
