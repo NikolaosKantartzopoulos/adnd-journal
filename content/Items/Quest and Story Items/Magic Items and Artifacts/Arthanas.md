@@ -1,5 +1,3 @@
-### Arthanas 
-
 Created at Dwarfhome
 
 INT 14, WIS 16, CHA 18 — Mithril flanged mace - 1d6 bludgeon 

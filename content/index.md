@@ -11,8 +11,7 @@ The City of Skyrock***
 
 
 **Latest Journal Entry:**    
-[[6. Έφυγε. Είναι ελεύθερος!]]
-
+[[7. A dark plane]]
 
 
 ---
