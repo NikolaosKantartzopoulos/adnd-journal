@@ -41,7 +41,6 @@ Free, extra, gift from DM: Detect Undead 60 ft
 Smite Evil (Lvl 1)
 
 Either: +2 Attack and Damage (Total) vs Undead
-
 Or:       +1d6 dmg vs Undead and Fiend
 
 ### Rare (Levels 5 - 10)
@@ -53,7 +52,6 @@ Free, extra, gift from DM: Detect Undead 60 ft
 Smite Evil (Lvl 2)
 
 Either: +3 Attack and Damage vs Undead
-
 Or:       +2d6 dmg vs Undead and Fiend
 
 Smiting Critical

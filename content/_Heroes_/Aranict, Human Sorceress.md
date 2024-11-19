@@ -1,3 +1,7 @@
+---
+aliases:
+  - Άρανικτ
+---
 # Character
 *Aranict, Human Sorceress*
 
