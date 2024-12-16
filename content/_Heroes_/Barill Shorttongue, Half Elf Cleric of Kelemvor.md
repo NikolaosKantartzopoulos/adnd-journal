@@ -1,6 +1,6 @@
 
 # Character
-*Baril, Half-elf cleric*
+*Barill, Half-elf cleric*
 
 | Category    | Description                                                                                                                                                                                                                        |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -48,25 +48,17 @@ I don't even remember my parents. I was told that I was abandoned as an infant a
 
 The monastery is located high in the spine of the world. The monks were kind enough to take care of me and raise me.
 
-
-
 I grew up in the monastery.
 
 My sister, or should I say the tiefling girl that should be my sister, was also was also an orphan in the monastery. There was nothing that I could not have done for her. She was the closest thing to a family to me. We grew up together, helping the monks, knowing their ways. I trained my soul and body, but I never felt that I really belonged there.
-
-
 
 Unfortunately, my sister grew ill when I was 9 years old. I watched her fading away like a candle blown by the wind. The monks could not help her. She died without me being able to help her. 
 
 I promised that I will never be that weak again. I will find the secrets to life and death. I will try to bring her back.
 
-
-
 After her death I frequently have terrible visions of death and destruction. I see the realms of death passing through my eyes.
 
 She is always there staring at me, speechless. These dreams haunt me. I cannot find any rest. I need to know what they mean. I need to find how to stop them. I need to know what they are trying to tell me.
-
-
 
 Unfortunately, the monks do not have the answers for me  
 

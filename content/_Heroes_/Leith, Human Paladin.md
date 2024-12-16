@@ -1,4 +1,4 @@
-# Character
+ # Character
 *Leith, Human Paladin*
 
 | Category    | Description                                                              |

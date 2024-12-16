@@ -6,12 +6,12 @@
 
 
 ***In-game time:***  
-***Πρωί 16 Marpenoth (Leafall) 1491,  
+***Πρωί 17 Marpenoth (Leafall) 1491,  
 The City of Skyrock***  
 
 
 **Latest Journal Entry:**    
-[[8. From Hades to Hell  --- 15-10-1491]]
+[[9. Ο Δρόμος προς τα ορυχεία]]
 
 ---
 
