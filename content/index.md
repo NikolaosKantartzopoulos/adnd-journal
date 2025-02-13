@@ -10,8 +10,9 @@
 City of Skyrock*** 
 
 
-**Latest Journal Entry:**    
-[[9. Ο Δρόμος προς τα ορυχεία]]
+**Latest Journal Entries:**    
+[[10. Skyrock's Adventure Finale]]
+[[11. Πάρτυ και ταξίδι στο Feywild]]
 
 ---
 
