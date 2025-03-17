@@ -1,26 +1,19 @@
-
 [[---Campaign Map---]]  
-[[--- Quest Log ---]]  
-[[--- Treasury ---]]  
-
-
 
 ***In-game time:***  
-***Πρωί 17 Marpenoth (Leafall) 1491,  
-City of Skyrock*** 
-
+***22/10/1491 - Marpenoth (Leafall), Travelling to the CIty of Waterdeep
 
 **Latest Journal Entries:**    
-[[10. Skyrock's Adventure Finale]]
-[[11. Πάρτυ και ταξίδι στο Feywild]]
+[[12. Το χωριό των Pixies]]  
+[[13. Το δέντρο του Silvanus]]
 
----
+**Quest Logs**
+[[--- Party Quest Log ---]]
 
-# Skyrock's Map
+[[Aranict]]
+[[Barill Shorttongue]]
+[[Beluwrath Twilfayne]]
+[[Leith]]
+[[Lucian]]
+[[Zyraxas Frostscale]]
 
-![[Χάρτης Skyrock.png]]
-
----
-
-
-[[---  The Group Contract ---]]  

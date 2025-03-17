@@ -1,0 +1,24 @@
+- Abandoned as a baby, found near a frosted dragon scale emitting cold air.  
+- Raised in a *Spine - Temple of Auril, Zyraxas* in the Spine of the World, surrounded by human priests.  
+- Always felt like an outsider among the temple’s followers, viewed with suspicion.  
+- Experienced recurring dreams of a white dragon in a frozen wasteland.  
+- In these dreams, the dragon hunted him, yet also seemed to call him toward something.  
+- Had visions of the *Spine - Temple of Auril, Zyraxas* destruction, leading him to question his faith.  
+- Branded as a heretic for speaking of his dreams, **cast out by the priests**.  
+- Felt betrayed when no one defended him, reinforcing his isolation and distrust, but *Regex Torvalds, Cleric of Auril, Mentor of Zyraxas*.  
+- Has ==never met another dragonborn==, making him uncertain of his heritage.  
+- Believes his dreams may hold the key to unlocking his true nature or preventing a disaster.  
+- Began his journey to understand the meaning of his dreams and the origins of his power.  
+- Saw a vision of the temple of Lathander, hinting at something important hidden there.  
+- His frozen dragon scale remains a mystery—only he can touch it without harm.  
+- Fears his growing ice powers may be connected to the destruction he sees in his dreams.  
+- Met with the rest of the heroes, starting a quest given by *Kelthor Fireblade - Guildmaster of Adventurer's Guild* to investigate a series of disappearances in the City of Skyrock.  
+- Hunts White Dragonborn who stole *Scimitar of Winds* from Lathander's Temple.  
+- Purge *Frostbrand Stormblade, Scimitar of Lightning and Cold, Zyraxas* and bind white dragon scale.  
+  - **Forged a Brother Bond between**  
+    - *Frostbrand Stormblade, Scimitar of Lightning and Cold, Zyraxas*  
+    - *Scimitar of Winds*  
+- ==Find *Skaldor Frozenfang, white dragonborn ranger*==  
+  - Invited to Waterdeep.  
+  - Είσαι εκλεκτός και το πεπρωμένο σου ανήκει στον Αιώνιο Χειμώνα.  
+  - Βάλε ένα κέρμα στο στόμα ενός από τα πτώματα στο *Waterdeep - Temple of Kelemvor* και θα σε βρω εγώ.  

@@ -1,0 +1,14 @@
+- Traveled to Skyrock. 
+	- Encountered [[Kandor Twilfayne, Lich trapped in Shadowfell, Παππούς Beluwrath]]
+		- ==Free him, by destroying [[Aenorithil, Magic Emerald]] and get a shard of Ancient Knowledge==
+	- Trapped [[Μάλκανθετ, Demon Lord|Malkanthet, Demon Lord]].
+- Traveled to Feywild.
+	- Saved the Gryphons
+	- Saved the Pixies
+- Investigate [[Arc III - V - Kaedros Bloodthorn, Blue Staff Wizard]] (Bald, goatee, blue metallic staff) stole [[Aenorithil, Magic Emerald]].
+	- ==Retrieve [[Aenorithil, Magic Emerald]]==
+	- Found husks of wizards
+- ==Travel to [[City of Waterdeep]]==
+	- Go to [[Golden Crown Inn (Waterdeep)|Πανδοχείο Η Χρυσή Κορώνα (Waterdeep)]] από όπου πέρασε η [[Αγιάνα, Paladin]]
+- Travel to [[City of Neverwinter]]
+	- Return 8,000gp to [[Kelthor Fireblade- Guildmaster of Adventurer's Guild|Kelthor Fireblade, Guildmaster of Adventurer's Guild]]

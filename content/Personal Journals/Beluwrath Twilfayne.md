@@ -1,0 +1,25 @@
+
+- Born in *City of Waterdeep* to a commoner father and *Parvia Twilfayne*, a mage of an ancient lineage.
+- Grew up unaware of his magical heritage and the **Twilfayne family’s legacy**.
+- Became a wizard, wearing blue robes, and pursued arcane knowledge.
+- Joined the **Harpers**, dedicating himself to preventing the misuse of magical artifacts.
+- Possesses an ==unknown key (*12-Sided Blue Dice Medallion*)== he has always had but never discovered its purpose.
+- His friendship with *Aranict, Human Sorceress* was shattered when *Amelia Sung, Aranict's Villain, Witch of Waterdeep* framed her for stealing a magical item.
+- Expelled from the *College of Mages (Waterdeep)* along with Aranict due to *Amelia Sung's* deception.
+  - ==Clear his name and legacy at the College==
+- Seeks *Aenorithil, Magic Emerald*, an unclear but important goal in his magical research.
+- Recently discovered his Twilfayne lineage, linking him to time magic and lost arcane secrets.
+- *Kandor Twilfayne, Lich trapped in Shadowfell, Παππούς Beluwrath*, possibly holding ==knowledge of the family’s lost towers==.
+- *Parvia Twilfayne* had a hidden room in the College of Mages. Should find where.
+- **Side Quest:** uncover the Twilfayne family’s arcane legacy.
+- Met with the rest of the heroes, starting a quest given by *Kelthor Fireblade - Guildmaster of Adventurer's Guild* to investigate a series of disappearances in the City of Skyrock.
+- Skyrock was once the base of the Dair family of mages; researching it could yield knowledge or artifacts.
+- **Long-Term Goal:** find and open the Twilfayne family’s lost towers.
+- Traveled to Skyrock.
+- ==Master of *Gleamspire - Tower of Wizardry in Skyrock*==
+  - By right of Familiar and Key (The dagger taken from the tower).
+- *Tarpit, Imp and Beluwrath's Familiar* as a familiar.
+- Beluwrath can manipulate time. Like all members of his family. At what cost?
+- *Aenorithil, Magic Emerald* stolen by a mysterious wizard.
+- ==Free *Kandor Twilfayne, Lich trapped in Shadowfell, Παππούς Beluwrath* from *Aenorithil, Magic Emerald* prison==
+  - Travel to the Elemental Plane of Earth and the *Elemental City of Crystalvein, Plane of Earth* to destroy *Aenorithil, Magic Emerald*.

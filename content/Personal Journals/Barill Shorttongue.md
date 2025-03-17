@@ -1,0 +1,21 @@
+
+- Orphaned at birth, abandoned at a *Monastery of Oghma (Spine of the World) - Baril* in the Spine of the World; parents unknown.
+- Raised by monks *Oghma Order of Knowledge (Baril's Monastery Order)*, growing up among scholars but never truly feeling like he belonged.
+- Formed a deep bond with a fellow orphan, a tiefling girl who became like a sister, *Vespera, Baril's Sister*.
+- She fell ill and died when he was nine years old; he couldn't save her.
+- Haunted by visions of destruction, death, and his sister in the realm of the dead.
+- On his 14th birthday, had his worst vision yet—burning lands, undead rising, and his sister pointing at Kelemvor’s realm.
+- Became convinced that the clergy of Kelemvor held the answers he sought.
+- The next morning, bid farewell to the monks and traveled to *City of Waterdeep*.
+- Joined the *Waterdeep - Temple of Kelemvor*, dedicating his life to learning the mysteries of life and death.
+- Hopes to uncover the truth and possibly find a way to ==**bring his *Vespera, Baril's Sister* back.**==
+- Met with the rest of the heroes, starting a quest given by *Kelthor Fireblade - Guildmaster of Adventurer's Guild* to investigate a series of disappearances in the City of Skyrock.
+- Καθαγίαση Ναού του Κέλεμβορ στα ορυχεία των Νάνων.
+- Traveled to Feywild. Met *Arthanas, Fallen Angel*.
+- **Travel to Feywild** to find wood for *Sohwulsican (Baril's Mace)*.
+- *Arthanas, Fallen Angel* is imprisoned in *Sohwulsican (Baril's Mace)*.
+  - Should travel to *Neverwinter - Library* to ==decipher Abyssal Lock==.
+  - ==Decide Arthanas' Fate==.
+    - Travel to Arthanas' Hellish prison through Shadowfell.
+    - *"Free me, and I will resurrect *Vespera, Baril's Sister*."*
+- Forced spirit of *Reeva, Killed by Lucian* to present herself. Posed himself as ==Guardian of Lucian from Reeva== if the spirit manifests.

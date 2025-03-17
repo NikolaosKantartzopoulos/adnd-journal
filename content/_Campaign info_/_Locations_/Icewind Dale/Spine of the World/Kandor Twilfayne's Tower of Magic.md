@@ -1,2 +1,0 @@
-[[Kandor Twilfayne]]
-[[Parvia Twilfayne]]
