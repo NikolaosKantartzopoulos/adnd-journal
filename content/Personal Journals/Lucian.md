@@ -3,11 +3,11 @@
 - Επιστρέφοντας στη *City of Neverwinter* o *Uncle Talon - Lucian's Inheritance Usurper* ==προσπάθησε να τον δολοφονήσει==.
 - *Grey Fox, Master Thief* took in *Lucian, Half-elf rogue* in the *Neverwinter - Fox Thieves' Guild*.
 - Lucian meets *Reeva, Killed by Lucian* friend.
-- ==*Reeva, Killed by Lucian*, with *Silver Gryphon dagger (Lucian - Reeva spirit)*==
-- ==Quest: Bring *Aenorithil, Magic Emerald* to *Neverwinter - Fox Thieves' Guild*==
+- ==Reeva, Killed by Lucian, with Silver dagger (Lucian - Reeva spirit)==
+- ==Quest: Bring Aenorithil, Magic Emerald to Neverwinter Fox Thieves' Guild==
 - Met with the rest of the heroes, starting a quest given by *Kelthor Fireblade - Guildmaster of Adventurer's Guild* to investigate a series of disappearances in the City of Skyrock.
 - *Reeva, Killed by Lucian* fragmented spirit is trapped in a Shadowfell pocket and *Silver Gryphon dagger (Lucian - Reeva spirit)*.
-  - ==Save Reeva's fragmented soul at *Neverwinter - Rat's Tail Inn*==
+  - ==Save Reeva's fragmented soul at Neverwinter - Rat's Tail Inn==
   - ==Find a way to enter Shadowfell==
 - Found and lost *Aenorithil, Magic Emerald*.
 - Trapped *Reeva, Killed by Lucian* in *Gryphon*, forced her out.

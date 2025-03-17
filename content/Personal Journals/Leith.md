@@ -6,10 +6,10 @@
 - Given Invisibility – *Seraphis (White Stag), Shaman of Leith's Village* hands him a potion; he hides under a cart.
 - Mother’s Curse – Watches in horror as his mother begins transforming.
 - Paladin Intervention – The *Duranin Order of Paladins* arrive, defeat *Necromancer Mordein, Leith's Archenemy*, and break the spell.
-- Chieftain’s Last Words – Dying leader Arcturus gives Leith a ring and a mission: ==hunt *Endolin - Leith's exiled brother*==.
+- Chieftain’s Last Words – Dying leader Arcturus gives Leith a ring and a mission: ==hunt *Endolin, Leith's exiled brother*==.
 - Path of the Paladin – Leith leaves behind his blind, half-undead mother to join the *Duranin Order of Paladins*.
 - Met with the rest of the heroes, starting a quest given by *Kelthor Fireblade - Guildmaster of Adventurer's Guild* to investigate a series of disappearances in the City of Skyrock.
-- Έχει στην κατοχή του το ==Guardian of *Sword of Ayanna (Demon Malkanthet)*==.
-- Traveled to Feywild and ==met *Seraphis (White Stag), Shaman of Leith's Village*==.
+- Έχει στην κατοχή του το ==Guardian of *Sword of Ayanna incl Demon Malkanthet*==.
+- Traveled to Feywild and ==met *Seraphis White Stag, Shaman of Leith's Village*==.
   - Killed Myrsata the Hag and freed the Village of Pixies.
-- ==*Virxee the Pixee*: Use the *Golden Leaf compass* to find and save *Umbreea, Leith's mom* near his Village at the Spine of the World==.
+- ==*Virxee the Pixee*: Use the Golden Leaf compass to find and save Leith's mom Umbreea near his Village at the Spine of the World==.

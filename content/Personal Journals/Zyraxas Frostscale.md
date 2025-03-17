@@ -18,7 +18,7 @@
   - **Forged a Brother Bond between**  
     - *Frostbrand Stormblade, Scimitar of Lightning and Cold, Zyraxas*  
     - *Scimitar of Winds*  
-- ==Find *Skaldor Frozenfang, white dragonborn ranger*==  
+- ==Find Skaldor Frozenfang, white dragonborn ranger==  
   - Invited to Waterdeep.  
   - Είσαι εκλεκτός και το πεπρωμένο σου ανήκει στον Αιώνιο Χειμώνα.  
   - Βάλε ένα κέρμα στο στόμα ενός από τα πτώματα στο *Waterdeep - Temple of Kelemvor* και θα σε βρω εγώ.  
