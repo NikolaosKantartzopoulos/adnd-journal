@@ -1,4 +1,3 @@
-## Leith's Past
 
 - Raised in the *Tribe of the Bear*, a hardy barbarian village.
 - *Endolin - Leith's exiled brother*’s Mistake – Challenges the chieftain, loses, and is exiled.

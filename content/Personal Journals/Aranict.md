@@ -1,5 +1,3 @@
-## Aranict's Past
-
 - Born in *City of Waterdeep* to a renowned family of mages.
 - **Raised by her mother**, *Corina Stormflare, Evocker - Aranict's mom*, a distinguished evocation mage at the College of Mages.
 - Discovered her **draconic heritage** at a young age; possesses red dragon ancestry.
