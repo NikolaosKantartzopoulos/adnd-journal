@@ -22,6 +22,16 @@
   - One-time dominate mortal gift.
 - Contacted by her father *Thoorgartheras, Red Dragon, Aranict's Father*, via *Everburn, Aranict's Pendant*.
   - Urged her to ==embrace the purity of the bloodline==.
+- Returned to Waterdeep under snowfall.  
+- Entered the city; beggars in every street except Lionheart Plaza.  Magic Void near the Lionheart Square.
+- Visited my mother. Asked how to handle a magical weapon containing a bound entity.  
+- She refused to help, citing ethics.  
+- Amelia Sung has a bright future in the College.
+- Later received a letter with instructions: room and shelf in the College Library.  
+- Learned from Beluwrath that the Golden Crown burned down.  
+- Confirmed harpers' new location through my mother.  
+- Met the group at The Golden Pitcher to share information.  
+- Went with Baril to a dwarven blacksmith to repair the mace handle.
 
 ---
 

@@ -18,3 +18,8 @@
     - Travel to Arthanas' Hellish prison through Shadowfell.
     - *"Free me, and I will resurrect Vespera, Baril's Sister."*
 - Forced spirit of *Reeva, Killed by Lucian* to present herself. Posed himself as ==Guardian of Lucian from Reeva== if the spirit manifests.
+- Returned to Waterdeep.  
+- Visited the Temple of Kelemvor.  
+- Invited by the High Priest to perform a ritual together.  Priest gave him a Small Book of Prayer.
+- Met with the group at The Golden Pitcher to share information.  
+- Went with Aranict to a dwarven blacksmith to repair the mace handle.

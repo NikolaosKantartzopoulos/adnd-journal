@@ -22,3 +22,13 @@
 - *Aenorithil, Magic Emerald* stolen by a mysterious wizard.
 - ==Free Kandor Twilfayne, Lich trapped in Shadowfell, Παππούς Beluwrath from Aenorithil, Magic Emerald prison==
   - Travel to the Elemental Plane of Earth and the *Elemental City of Crystalvein, Plane of Earth* to destroy *Aenorithil, Magic Emerald*.
+- Returned to Waterdeep.  
+- Visited Reigon at Veils & Visions.  
+- Learned the Golden Crown burned down.  
+- Found out its new location through Aranict.  
+- Learned from the Harpers that the College is intercepting teleportation spells.  
+- Met with the group at The Golden Pitcher to share information.  
+- Visited the tavern Balanta in D♯.  
+- Spoke with Xanthe.  
+- Learned the Harpers want to restore the teleportation circle but fear the College.  
+- Learned about Kaedros Bloodthorn, a mage who lost his wife to infernal dealings.

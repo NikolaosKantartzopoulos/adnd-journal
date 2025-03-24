@@ -11,3 +11,12 @@
   - ==Find a way to enter Shadowfell==
 - Found and lost *Aenorithil, Magic Emerald*.
 - Trapped *Reeva, Killed by Lucian* in *Gryphon*, forced her out.
+- Returned to Waterdeep.  
+- Noticed a figure in a red cloak following me; attempted to pursue but lost them.  
+- Met with the group at The Golden Pitcher to share information.  
+- Approached by a nervous man asking me to deliver a package from Balanta in D♯ to the ship The Green Dragon.  
+- Refused the offer; he said he'd find me outside the old Golden Crown.  
+- Later ambushed in an alley by the red-cloaked assassin.  
+  - Asked why the Grey Fox paid for my protection.  
+  - Demanded to know the location of the Aenorithil.  
+  - Spared my life in exchange for a promise: when I reclaim my inheritance, I must give up my place to him.

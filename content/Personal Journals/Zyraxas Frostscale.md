@@ -22,3 +22,12 @@
   - Invited to Waterdeep.  
   - Είσαι εκλεκτός και το πεπρωμένο σου ανήκει στον Αιώνιο Χειμώνα.  
   - Βάλε ένα κέρμα στο στόμα ενός από τα πτώματα στο *Waterdeep - Temple of Kelemvor* και θα σε βρω εγώ.  
+- Returned to Waterdeep.  
+- Visited the Temple of Kelemvor with Baril.  
+- Observed Baril perform a ritual with the High Priest.  
+- Placed a coin in the mouth of a corpse.  
+- A bald priest saw me exiting the burial chamber.  
+- Later found the same coin in my pocket.  
+- Met with the group at The Golden Pitcher to share information.  
+- Followed a shadowy figure into an underground necromantic lair.  
+- Encountered Skaldor, the white dragonborn from my visions.
