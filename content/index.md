@@ -18,5 +18,4 @@
 ---
 
 # Latest Journal Entries
-[[12. Το χωριό των Pixies]]  
-[[13. Το δέντρο του Silvanus]]
+[[14. Φτάνοντας στη Waterdeep]]
