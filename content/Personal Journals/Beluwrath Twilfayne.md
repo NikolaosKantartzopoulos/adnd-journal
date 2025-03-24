@@ -28,7 +28,7 @@
 - Found out its new location through Aranict.  
 - Learned from the Harpers that the College is intercepting teleportation spells.  
 - Met with the group at The Golden Pitcher to share information.  
-- Visited the tavern Balanta in D♯.  
+- Visited the tavern Balanta in C♯.  
 - Spoke with Xanthe.  
 - Learned the Harpers want to restore the teleportation circle but fear the College.  
 - Learned about Kaedros Bloodthorn, a mage who lost his wife to infernal dealings.
